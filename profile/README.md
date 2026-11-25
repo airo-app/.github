@@ -1,4 +1,4 @@
-# Airo
+# 4clip
 
 **Switcher de vídeo ao vivo para igrejas.** Câmeras, letras, slides e transmissão numa tela só,
 com o fluxo de preview e program que a equipe de mídia já conhece. macOS, Windows e Linux.
@@ -6,10 +6,10 @@ com o fluxo de preview e program que a equipe de mídia já conhece. macOS, Wind
 **Live video switcher for churches.** Cameras, lyrics, slides and streaming on one screen, with
 the preview and program workflow your media team already knows. macOS, Windows and Linux.
 
-- Site: <https://airo-app.github.io>
-- Downloads: [macOS (Apple Silicon)](https://github.com/airo-app/airo-app.github.io/releases/latest/download/Airo-macOS-arm64.dmg) ·
-  [Windows x64](https://github.com/airo-app/airo-app.github.io/releases/latest/download/Airo-Windows-x64.zip) ·
-  [Linux x86_64](https://github.com/airo-app/airo-app.github.io/releases/latest/download/Airo-Linux-x86_64.AppImage) ·
-  [todas as versões / all versions](https://github.com/airo-app/airo-app.github.io/releases)
+- Site: <https://4clip.io>
+- Downloads: [macOS (Apple Silicon)](https://github.com/4clip/downloads/releases/latest/download/4clip-macOS-arm64.dmg) ·
+  [Windows x64](https://github.com/4clip/downloads/releases/latest/download/4clip-Windows-x64.zip) ·
+  [Linux x86_64](https://github.com/4clip/downloads/releases/latest/download/4clip-Linux-x86_64.AppImage) ·
+  [todas as versões / all versions](https://github.com/4clip/downloads/releases)
 
-- Código / Source: <https://github.com/airo-app/airo>
+- Código / Source: <https://github.com/4clip/4clip>
